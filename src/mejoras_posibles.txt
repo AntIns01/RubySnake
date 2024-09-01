@@ -5,5 +5,4 @@
 5. Darle forma redonda a la comida
 6. Generar de forma random las posiciones iniciales y validar
 7. crear un model donde diga el puntaje y si quiere reiniciar el juego
-8. pepe
 
