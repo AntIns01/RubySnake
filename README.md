@@ -8,14 +8,14 @@ Un juego de Snake en 2D hecho en Ruby utilizando Ruby2D.
 
 ## Instalación
 
-1. Clona el repositorio:
+1. Clona el repositorio
    ```bash
    git clone https://github.com/AntIns01/RubySnake.git
 
 2. Instalar Ruby 3.3.4 de la pagina oficial   
    [Descarga Ruby](https://www.ruby-lang.org/es/downloads/)
 
-3. Instalar bundle para ruby
+3. Instalar bundler para ruby
    ```bash
    gem install bundler
    bundle init 
