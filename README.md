@@ -15,12 +15,17 @@ Un juego de Snake en 2D hecho en Ruby utilizando Ruby2D.
 2. Instalar Ruby 3.3.4 de la pagina oficial   
    [Descarga Ruby](https://www.ruby-lang.org/es/downloads/)
 
-3. Instalar bundler para ruby
+3. Para Linux es necesario instalar las dependencias graficas
+   ```bash
+   sudo apt update
+   sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
+
+4. Instalar bundler para ruby
    ```bash
    gem install bundler
-   bundle init 
+   bundle init
 
-4. Para ejecutar el juego
+5. Para ejecutar el juego
    ```bash
    bundle exec ruby src/app.rb
 
