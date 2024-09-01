@@ -1,6 +1,9 @@
-# Proyecto de Juego Snake
+# Snake2D The Game
 
-Un simple juego de Snake en 2D hecho en Ruby utilizando Ruby2D.
+Un juego de Snake en 2D hecho en Ruby utilizando Ruby2D.
+
+## Preview
+
 
 ## Características
 
