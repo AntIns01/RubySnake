@@ -4,7 +4,7 @@ Un juego de Snake en 2D hecho en Ruby utilizando Ruby2D.
 
 ## Preview
 
-![preview_snake2d](https://github.com/user-attachments/assets/1b9a0f60-6b8a-4ee4-81ce-400669b02f50)
+![snake](https://github.com/user-attachments/assets/6fac3b7f-d070-4d85-8498-358e32d7157c)
 
 ## Instalación
 
